@@ -1,0 +1,710 @@
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid-Signed.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\bin\MapApp.Droid.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\res\values\styles.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\R.cs.flag
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\uploadflags.txt
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\System.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.ExternalMaps.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.ExternalMaps.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid-Signed.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\bin\MapApp.Droid.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\values\styles.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable\facebook2.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable\images.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable\m.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable\untitled.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable\imag.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable\im.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable\ima.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable\ii.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable\x.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\R.cs.flag
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\uploadflags.txt
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\System.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.ExternalMaps.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.ExternalMaps.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\res\drawable\r3.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid-Signed.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\bin\MapApp.Droid.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\values\styles.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\facebook2.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\m.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\untitled.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\imag.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\im.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\ima.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\ii.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\x.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\r3.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\R.cs.flag
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\uploadflags.txt
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.ExternalMaps.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.ExternalMaps.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\aachat.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\aceuil.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\achat2.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\mail.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\maps.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\offre.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\phone.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\sms.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\twiter.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\vendre.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\yotube.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\footer.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\home2.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.Messaging.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\rrrr.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid-Signed.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\bin\MapApp.Droid.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\values\styles.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\facebook2.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\m.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\untitled.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\im.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\x.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\r3.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\aceuil.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\achat2.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\mail.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\maps.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\offre.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\phone.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\sms.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\twiter.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\vendre.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\yotube.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\footer.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\home2.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\rrrr.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\R.cs.flag
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\uploadflags.txt
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.ExternalMaps.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.ExternalMaps.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.Messaging.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\myclothers.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\login.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\pick.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\take.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\upload.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.TextToSpeech.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.TextToSpeech.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid-Signed.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\bin\MapApp.Droid.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\values\styles.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\facebook2.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\m.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\untitled.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\im.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\x.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\r3.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\aceuil.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\achat2.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\mail.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\phone.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\sms.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\twiter.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\vendre.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\yotube.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\footer.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\home2.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\rrrr.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\myclothers.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\offre.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\login.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\maps.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\pick.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\take.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\upload.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\ffb.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\R.cs.flag
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\uploadflags.txt
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.ExternalMaps.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.ExternalMaps.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.Messaging.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.TextToSpeech.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Plugin.TextToSpeech.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid-Signed.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Media.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.ExternalMaps.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Media.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Media.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Messaging.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\android\bin\MapApp.Droid.apk
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\values\styles.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\facebook2.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\m.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\untitled.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\im.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\x.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\r3.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\aceuil.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\achat2.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\mail.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\phone.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\sms.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\twiter.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\vendre.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\yotube.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\footer.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\rrrr.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\myclothers.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\offre.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\login.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\maps.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\pick.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\take.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\upload.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\ffb.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\home2.jpg
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\email.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\facebook.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\google.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\twitter.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable-xxhdpi\ic_launcher.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\res\drawable\ic_launcher.png
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\R.cs.flag
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\uploadflags.txt
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\obj\Debug\MapApp.Droid.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp.Droid\bin\Debug\MapApp.Droid.dll.mdb

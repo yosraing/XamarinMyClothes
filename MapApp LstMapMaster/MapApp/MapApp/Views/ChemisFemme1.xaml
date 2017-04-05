@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MapApp.Views.ChemisFemme1">
+
+  <StackLayout Orientation="Vertical" BackgroundColor="White">
+    <Image Source="m.png"/>
+    <Label Text="   "/>
+
+    <ScrollView>
+      <StackLayout Orientation="Vertical" BackgroundColor="#DBEBF4" Padding="10">
+        <Grid Padding="30,10">
+          <Image Source="r3.jpg" HorizontalOptions="Center" />
+        </Grid>
+
+        <StackLayout Orientation="Horizontal">
+          <StackLayout Orientation="Vertical"  >
+            <Label Text="Titre:"  TextColor="Navy" FontSize="15"/>
+            <Label Text="Prix:"   TextColor="Navy" FontSize="15" />
+            <Label Text="E_Mail:" TextColor="Navy" FontSize="15"/>
+            <Label Text="Phone:"  TextColor="Navy" FontSize="15"/>
+
+          </StackLayout>
+
+          <StackLayout Orientation="Vertical"  >
+            <Label TextColor="Navy" x:Name="lbTitle"/>
+            <Label TextColor="Navy" x:Name="lbPrix"/>
+            <Label TextColor="Navy" x:Name="lbMail"/>
+            <Label TextColor="Navy" x:Name="lbphne"/>
+          </StackLayout>
+        </StackLayout>
+
+        <StackLayout Orientation="Vertical" Padding="40">
+          <Button Text="Réserver" BackgroundColor="Blue" TextColor="White"/>
+        </StackLayout>
+
+      </StackLayout>
+    </ScrollView>
+
+    <StackLayout Orientation="Horizontal" HorizontalOptions="Center"  >
+
+      <Grid  Padding="20,10" >
+        <Grid.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Maps_OnClicked"/>
+        </Grid.GestureRecognizers>
+        <Image Source="maps.jpg" />
+        <!-- <Label Text="Maps" TextColor="Navy" HorizontalOptions="CenterAndExpand"/> -->
+      </Grid>
+
+      <Grid  >
+        <Grid.GestureRecognizers>
+          <TapGestureRecognizer Tapped="SmS_OnTapped"/>
+        </Grid.GestureRecognizers>
+        <Image Source="sms.png" />
+        <!-- <Label Text="Envoyer SMS" TextColor="Navy" HorizontalOptions="CenterAndExpand"/> -->
+      </Grid>
+
+      <Grid  Padding="20,10" >
+        <Grid.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Phone_OnTapped"/>
+        </Grid.GestureRecognizers>
+        <Image Source="phone.png" />
+        <!-- <Label Text="Phone" TextColor="Navy" HorizontalOptions="CenterAndExpand"/> -->
+      </Grid>
+
+      <Grid  Padding="20,10" >
+        <Grid.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Mail_OnTapped"/>
+        </Grid.GestureRecognizers>
+        <Image Source="mail.png" />
+        <!-- <Label Text="E_Mail" TextColor="Navy" HorizontalOptions="CenterAndExpand"/> -->
+      </Grid>
+    </StackLayout>
+
+
+  </StackLayout>
+</ContentPage>
+
+<!--
+<Grid>
+   <Image Source="facebook2.png" HorizontalOptions="StartAndExpand"/>
+   <Button Text="Go to Map" Clicked="Map_OnClicked" HorizontalOptions="CenterAndExpand"/>
+ </Grid>-->

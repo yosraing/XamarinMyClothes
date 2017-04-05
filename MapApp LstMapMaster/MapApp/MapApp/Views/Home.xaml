@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MapApp.Views.Home"
+             BackgroundColor="Navy">
+  <StackLayout BackgroundColor="Navy">
+    <Grid>
+      <Image Source="home2.jpg"></Image>
+    </Grid>
+  </StackLayout>
+</ContentPage>

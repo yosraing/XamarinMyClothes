@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YOSRA</Machine>
+    <WindowsUser>ghnimi yosra</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>cff7c895-c6bf-4844-8451-e32ab9bb91f7</PackageIdentityName>
+    <PackageIdentityPublisher>CN=ghnimi yosra</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Windows\obj\ARM\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>971F6551C9D80ACE91BAC4E05C335AC080C269863947674A29287BBE05239F2A</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Windows\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-09-04T08:14:16.276</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Windows\bin\ARM\Debug\MapApp.Windows.exe">
+      <PackagePath>MapApp.Windows.exe</PackagePath>
+      <Modified>2016-09-04T08:14:04.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll">
+      <PackagePath>MapApp.dll</PackagePath>
+      <Modified>2016-08-28T10:31:20.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xam.Plugin.ExternalMaps.3.0.0\lib\win8\Plugin.ExternalMaps.Abstractions.dll">
+      <PackagePath>Plugin.ExternalMaps.Abstractions.dll</PackagePath>
+      <Modified>2016-01-18T10:07:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xam.Plugin.ExternalMaps.3.0.0\lib\win8\Plugin.ExternalMaps.dll">
+      <PackagePath>Plugin.ExternalMaps.dll</PackagePath>
+      <Modified>2016-01-18T10:07:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xam.Plugins.Messaging.3.2.1\lib\win8\Plugin.Messaging.Abstractions.dll">
+      <PackagePath>Plugin.Messaging.Abstractions.dll</PackagePath>
+      <Modified>2016-03-31T11:56:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xam.Plugins.Messaging.3.2.1\lib\win8\Plugin.Messaging.dll">
+      <PackagePath>Plugin.Messaging.dll</PackagePath>
+      <Modified>2016-03-31T11:56:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xam.Plugins.TextToSpeech.2.0.0\lib\win8\Plugin.TextToSpeech.Abstractions.dll">
+      <PackagePath>Plugin.TextToSpeech.Abstractions.dll</PackagePath>
+      <Modified>2015-12-01T13:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xam.Plugins.TextToSpeech.2.0.0\lib\win8\Plugin.TextToSpeech.dll">
+      <PackagePath>Plugin.TextToSpeech.dll</PackagePath>
+      <Modified>2015-12-01T13:25:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.2.3.1.114\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2016-08-02T13:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.Maps.2.3.1.114\lib\win81\Xamarin.Forms.Maps.dll">
+      <PackagePath>Xamarin.Forms.Maps.dll</PackagePath>
+      <Modified>2016-08-02T13:13:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.Maps.2.3.1.114\build\win81\ARM\Xamarin.Forms.Maps.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Maps.WinRT.Tablet.dll</PackagePath>
+      <Modified>2016-08-02T13:13:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.2.3.1.114\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2016-08-02T13:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.2.3.1.114\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+      <Modified>2016-08-02T13:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.Maps.2.3.1.114\build\win81\ARM\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+      <Modified>2016-08-02T13:13:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.2.3.1.114\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2016-08-02T13:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-03-14T20:30:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-14T18:27:08.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-14T18:27:08.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-14T18:27:08.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-08-14T18:27:08.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Windows\bin\ARM\Debug\MapApp.Windows.xr.xml">
+      <PackagePath>MapApp.Windows.xr.xml</PackagePath>
+      <Modified>2016-09-04T08:14:02.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Windows\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-09-04T08:14:03.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Windows\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-09-04T08:14:03.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\Images\imageMenu.jpg">
+      <PackagePath>MapApp\Images\imageMenu.jpg</PackagePath>
+      <Modified>2016-08-17T13:41:46.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\Images\imageHome.jpg">
+      <PackagePath>MapApp\Images\imageHome.jpg</PackagePath>
+      <Modified>2016-08-17T13:52:06.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.2.3.1.114\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+      <Modified>2016-08-02T13:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.2.3.1.114\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+      <Modified>2016-08-02T13:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.2.3.1.114\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+      <Modified>2016-08-02T13:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.Maps.2.3.1.114\build\win81\ARM\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+      <Modified>2016-08-02T13:13:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.Maps.2.3.1.114\build\win81\ARM\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+      <Modified>2016-08-02T13:13:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.Maps.2.3.1.114\build\win81\ARM\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+      <Modified>2016-08-02T13:13:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\packages\Xamarin.Forms.Maps.2.3.1.114\build\win81\ARM\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+      <Modified>2016-08-02T13:13:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp.Windows\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-09-04T08:14:11.212</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

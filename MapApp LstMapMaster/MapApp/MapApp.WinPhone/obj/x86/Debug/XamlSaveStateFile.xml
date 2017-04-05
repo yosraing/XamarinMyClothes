@@ -1,0 +1,20 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\mapapp\mapapp\bin\debug\mapapp.dll" HashGuid="312eb382-f3b4-a735-4098-cb691e8ad291" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xam.plugin.externalmaps.3.0.0\lib\wpa81\plugin.externalmaps.abstractions.dll" HashGuid="118cf6ff-77b5-a7de-c672-3be1146faa3b" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xam.plugin.externalmaps.3.0.0\lib\wpa81\plugin.externalmaps.dll" HashGuid="5c6f4862-b812-917b-b412-e6710c7ef7e4" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xam.plugin.media.2.3.0\lib\wpa81\plugin.media.abstractions.dll" HashGuid="ae244c5d-fb0b-f3fb-6b48-a0782f8af3ef" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xam.plugin.media.2.3.0\lib\wpa81\plugin.media.dll" HashGuid="193a8c7a-2bc5-360b-9096-0135d06e6134" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xam.plugins.messaging.3.2.1\lib\wpa81\plugin.messaging.abstractions.dll" HashGuid="8c1b195a-a323-e5e6-4895-bb4623bc21a2" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xam.plugins.messaging.3.2.1\lib\wpa81\plugin.messaging.dll" HashGuid="569169d2-3185-aafc-6ab0-383cdbe8668a" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xam.plugins.texttospeech.2.0.0\lib\wpa81\plugin.texttospeech.abstractions.dll" HashGuid="74f29075-d255-2074-aa7b-0c4140776074" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xam.plugins.texttospeech.2.0.0\lib\wpa81\plugin.texttospeech.dll" HashGuid="9e968a51-27fa-5929-0b3f-ea0592bcd86f" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xamarin.forms.2.3.1.114\lib\wpa81\xamarin.forms.core.dll" HashGuid="af180b9a-aa51-0944-927e-c6473cd8810f" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xamarin.forms.maps.2.3.1.114\lib\wpa81\xamarin.forms.maps.dll" HashGuid="ed9c28df-835e-9228-f013-bb1216e25d67" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xamarin.forms.maps.2.3.1.114\lib\wpa81\xamarin.forms.maps.winrt.phone.dll" HashGuid="3135e740-c5f2-4d65-dc3f-ed8420117299" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xamarin.forms.2.3.1.114\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xamarin.forms.2.3.1.114\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="9252d1f6-d345-6b4f-eb93-61537b95eb17" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xamarin.forms.2.3.1.114\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="b8557fe6-625f-3f09-5ca0-7389960acdca" />
+    <ReferenceAssembly PathName="c:\users\user\desktop\yosra xamarin\mapapp lstmapmaster\packages\xamarin.forms.2.3.1.114\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="68924db8-a65f-e414-d0af-af182cfb1786" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

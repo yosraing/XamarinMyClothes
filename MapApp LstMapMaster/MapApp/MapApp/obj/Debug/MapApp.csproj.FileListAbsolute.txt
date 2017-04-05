@@ -1,0 +1,304 @@
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp\obj\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapLstViewApp\MapApp\MapApp\bin\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\MapApp.dll.config
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\obj\Debug\MapApp.csproj.App.config
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\obj\Debug\MapApp.Views.MainPage.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\obj\Debug\MapApp.App.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\obj\Debug\MapApp.Views.ChemisFemme1.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\obj\Debug\MapApp.Views.Vetement.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\obj\Debug\MapApp.Views.MenuPage.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\obj\Debug\MapApp.Views.Home.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\obj\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\obj\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\obj\Debug\MapApp.csprojResolveAssemblyReference.cache
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\obj\Debug\MapApp.Views.Menu.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\obj\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\bin\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll.config
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.csproj.App.config
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.csprojResolveAssemblyReference.cache
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.MainPage.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.App.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.ChemisFemme1.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Vetement.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Home.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Page1.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll.config
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.csproj.App.config
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.csprojResolveAssemblyReference.cache
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.MainPage.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.App.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.ChemisFemme1.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Vetement.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Home.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Page1.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Login.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Vendre.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll.config
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.csproj.App.config
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.csprojResolveAssemblyReference.cache
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.MainPage.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.App.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.ChemisFemme1.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Vetement.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Home.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Page1.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Login.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Vendre.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.FacebookProfilePage.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.MainCsPageLofinFB.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.LoginFacebook.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\2\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll.mdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll.config
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.pdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Media.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.Abstractions.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.pdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Media.pdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Media.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.pdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.pdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.Abstractions.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.csproj.App.config
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.MainPage.xaml.g.cs
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.App.xaml.g.cs
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.ChemisFemme1.xaml.g.cs
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Vetement.xaml.g.cs
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Home.xaml.g.cs
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Page1.xaml.g.cs
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Login.xaml.g.cs
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Vendre.xaml.g.cs
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.FacebookProfilePage.xaml.g.cs
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.LoginFacebook.xaml.g.cs
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.dll
+C:\Users\USER\Desktop\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll.config
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Media.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.Abstractions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.ExternalMaps.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Media.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Media.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.Messaging.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Plugin.TextToSpeech.Abstractions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.csproj.App.config
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.csprojResolveAssemblyReference.cache
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.MainPage.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.App.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.ChemisFemme1.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Vetement.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Home.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Page1.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Login.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.Vendre.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.FacebookProfilePage.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.Views.LoginFacebook.xaml.g.cs
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.dll
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.pdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\obj\Debug\MapApp.dll.mdb
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\yosra xamarin\MapApp LstMapMaster\MapApp\MapApp\bin\Debug\MapApp.dll.mdb

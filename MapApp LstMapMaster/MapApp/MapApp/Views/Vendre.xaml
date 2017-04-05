@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MapApp.Views.Vendre">
+  <ContentPage.Content>
+    <ScrollView>
+
+      <StackLayout BackgroundColor="White">
+        <StackLayout  Padding="10" Spacing="10" BackgroundColor="#DBEBF4">
+
+          <Label Text="télécharger image pour vendre"
+                  FontSize="20" TextColor="Navy"
+                  HorizontalOptions="Center"
+                  VerticalOptions="Center"/>
+
+
+
+          <Grid Padding="20,10" >
+            <Grid.GestureRecognizers>
+              <TapGestureRecognizer Tapped="RamasserPhoto_OnTapped"/>
+            </Grid.GestureRecognizers>
+            <Image Source="pick.jpg" HorizontalOptions="StartAndExpand"/>
+            <Label Text="ramasser photo" TextColor="Navy" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Start"/>
+          </Grid>
+          <Grid Padding="20,10" >
+            <Grid.GestureRecognizers>
+              <TapGestureRecognizer Tapped="PrendrePhoto_OnTapped" />
+            </Grid.GestureRecognizers>
+            <Image Source="take.jpg" HorizontalOptions="StartAndExpand"/>
+            <Label Text="prendre une photo" TextColor="Navy" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Start"/>
+          </Grid>
+
+          <!--
+      <Grid Padding="20,10" >
+        <Grid.GestureRecognizers>
+          <TapGestureRecognizer />
+        </Grid.GestureRecognizers>
+        <Image Source="upload.png" HorizontalOptions="StartAndExpand"/>
+        <Label Text="télécharger photo" TextColor="Navy" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Start"/>
+      </Grid>
+     -->
+
+          <Image x:Name="FileImage"
+                WidthRequest="150"
+                HeightRequest="150"
+                BackgroundColor="White"/>
+
+          <Label x:Name="LocalPathLabel"/>
+
+          <Button Text="Publier"
+                   BackgroundColor="Navy"
+                   TextColor="White"
+                   HorizontalOptions="FillAndExpand"
+                   VerticalOptions="Center"
+                   Clicked="TéléchargerPhoto_OnTapped"/>
+
+          <Label x:Name="RemotePathLabel"/>
+
+
+
+        </StackLayout>
+
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MapApp.Views.LoginFacebook"
+             Title="Facebook Login"
+             BackgroundColor="White">
+
+
+  <StackLayout  >
+    <!-- Spacing="7"-->
+    <Label Text="Authentification" FontSize="30" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#3A5997"/>
+    <Image Source="MyClothers.png"/>
+    <Label Text="MyClothers.com" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#3A5997"/>
+
+    <!--   <ActivityIndicator x:Name="waitActivityIndicator" HorizontalOptions="Center" VerticalOptions="Center"/>   -->
+
+    <ScrollView>
+      <StackLayout Orientation="Vertical" BackgroundColor="White" Padding="15" >
+
+
+        <Grid BackgroundColor="#FFFAE0" Padding="5.30">
+          <Label  Text="Connexion Avec :"   HorizontalOptions="Start" TextColor="#9C9994"/>
+        </Grid>
+        <StackLayout Orientation="Vertical" BackgroundColor="#DBEBF4" Padding="26" >
+
+          <Grid  >
+            <Grid.GestureRecognizers>
+              <TapGestureRecognizer Tapped="LoginWithFacebook_Clicked"/>
+            </Grid.GestureRecognizers>
+            <Image Source="Facebook.png"/>
+          </Grid>
+
+          <Grid  >
+            <Grid.GestureRecognizers>
+              <TapGestureRecognizer Tapped="LoginWithGoogle_OnTapped"/>
+            </Grid.GestureRecognizers>
+            <Image Source="google.png"/>
+          </Grid>
+
+          <Grid  >
+            <Grid.GestureRecognizers>
+              <TapGestureRecognizer />
+            </Grid.GestureRecognizers>
+            <Image Source="Email.png"/>
+          </Grid>
+
+          <Grid  >
+            <Grid.GestureRecognizers>
+              <TapGestureRecognizer/>
+            </Grid.GestureRecognizers>
+            <Image Source="Twitter.png"/>
+          </Grid>
+
+
+          <Label Text="Forgot Password? -Help center" TextColor="#C3CAD9" HorizontalOptions="Center"/>
+
+        </StackLayout>
+
+      </StackLayout>
+    </ScrollView>
+
+  </StackLayout>
+</ContentPage>

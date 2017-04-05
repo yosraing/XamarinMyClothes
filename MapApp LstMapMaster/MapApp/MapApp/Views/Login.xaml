@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MapApp.Views.Login">
+
+ <ContentPage.Content>
+   <ScrollView>
+    <StackLayout  >  <!-- Spacing="7"-->
+          <Label Text="Authentification" FontSize="30" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#3A5997"/>
+          <Image Source="MyClothers.png"/>
+          <Label Text="MyClothers.com" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#3A5997"/>
+   
+         <!--  <ActivityIndicator x:Name="waitActivityIndicator" HorizontalOptions="Center" VerticalOptions="Center"/>  -->
+      
+      
+                        
+               <StackLayout Orientation="Vertical" BackgroundColor="#DBEBF4" >
+                  <Grid BackgroundColor="#3A5997" Padding="20.30" >
+                    <Label Text="Facebook"  VerticalOptions="Center" HorizontalOptions="Center" TextColor="White"/>                  
+                  </Grid>
+                 <Grid BackgroundColor="#FFFAE0" Padding="5.30">
+                   <Label  Text="You must log in first"   HorizontalOptions="Start" TextColor="#9C9994"/>
+                 </Grid>
+                        <StackLayout Orientation="Vertical" BackgroundColor="#DBEBF4" Padding="20" >
+                                  <Grid BackgroundColor="#FFFAE0" HorizontalOptions="StartAndExpand" >
+                                           <Image Source="fFB.png" HorizontalOptions="StartAndExpand" />   
+                                           <Label TextColor="#9C9994" Text="Get Facebook FormattedText iPhone and browse faster" HorizontalOptions="End"/>
+                                  </Grid>
+                                   
+                                       <Entry BackgroundColor="White"/>
+                                       <Entry BackgroundColor="White" />
+                                       <Button Text="Login With facebook" BackgroundColor="#5C74A3" TextColor="White"  VerticalOptions="Center"
+                                               Clicked="Login_OnClicked"/>
+                                      
+                         </StackLayout>
+                                        <StackLayout Orientation="Vertical" BackgroundColor="#DBEBF4" Padding="40">
+                                            <Button Text="Create New Account" BackgroundColor="#598DF2" TextColor="White" VerticalOptions="Center"  />
+                                            <Label Text="Forgot Password? -Help center" TextColor="#C3CAD9" HorizontalOptions="Center"/> 
+                                        </StackLayout>
+                 
+               
+              </StackLayout>
+                         
+      
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+  
+</ContentPage>

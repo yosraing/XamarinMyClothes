@@ -1,0 +1,2 @@
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp.UWP\MapApp.UWP.csproj;x86
+C:\Users\ghnimi yosra\Documents\Visual Studio 2015\Projects\Application 2\MapApp\MapApp\MapApp\MapApp.csproj;neutral

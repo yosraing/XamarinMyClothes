@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MapApp.Data;assembly=MapApp"
+             x:Class="MapApp.Views.Vetement">
+
+
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <local:ImageSourceConverter x:Key="imageConverter"/>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+
+
+  <ContentPage.Content>
+    <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="#DBEBF4">
+
+      <SearchBar Placeholder="search" TextColor="Navy"
+                 BackgroundColor="White"
+                 TextChanged="OnTextChanged"></SearchBar>
+      <Image Source="m.png"></Image>
+
+      <ListView x:Name="lstMVA" ItemsSource="{Binding .}"
+                  Footer="{Binding Count, Source={x:Static local:MVAFactory.MVAData}}"
+                  IsGroupingEnabled="True"
+                  GroupDisplayBinding="{Binding Key}"
+                  GroupShortNameBinding="{Binding Key}"
+                  CachingStrategy="RecycleElement"
+                  ItemSelected="OnSelected"
+                  IsPullToRefreshEnabled="True"
+                  Refreshing="OnRefresh">
+
+        <!-- <ListView.Header>
+          <ContentView Padding="0,5" BackgroundColor="Navy">
+            <Label FontSize="Medium" TextColor="White"
+                   Text="Listes Vetements Pour Les Femmes"
+                   HorizontalTextAlignment="Center"
+                   VerticalOptions="Center"/>
+          </ContentView>
+        </ListView.Header>-->
+
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ImageCell Text="{Binding Title}" TextColor="Navy"
+                       Detail="{Binding Prix}" DetailColor="Gray"
+                       ImageSource="{Binding ImageUrl, 
+                     Converter={StaticResource imageConverter}}">
+              <ImageCell.ContextActions>
+                <MenuItem Text="Commantaire" Clicked="OnMenuItemClicked"></MenuItem>
+                <MenuItem Text="Signaler" IsDestructive="True"></MenuItem>
+              </ImageCell.ContextActions>
+
+            </ImageCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+
+        <ListView.FooterTemplate>
+          <DataTemplate>
+            <ContentView Padding="0,5,5,0" BackgroundColor="Navy">
+              <Label FontSize="Medium"
+                     TextColor="White"
+                     VerticalTextAlignment="Center"
+                     HorizontalTextAlignment="End"
+                     Text="{Binding ., StringFormat='{0}  Piéces'}"/>
+            </ContentView>
+          </DataTemplate>
+        </ListView.FooterTemplate>
+
+      </ListView>
+    </StackLayout>
+  </ContentPage.Content>
+
+
+</ContentPage>
